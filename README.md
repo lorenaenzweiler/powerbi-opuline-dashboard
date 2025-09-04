@@ -25,5 +25,5 @@ Oferecer uma visão analítica do desempenho da empresa fictícia **Opuline**, p
 3. Explore as páginas do relatório, interaja com os filtros e visualize os insights;  
 4. Para customizar, substitua os dados fictícios pelos seus próprios conjuntos de dados.  
 
-📁 **Licença**: Este projeto é para fins educacionais e de prática pessoal.
+📁 **Licença**: Este projeto é para fins educacionais e de prática pessoal!
 
